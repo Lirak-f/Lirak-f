@@ -10,7 +10,6 @@ I build products end to end. Now with AI agents and LLMs inside them.
 [![Website](https://img.shields.io/badge/lirak.dev-FF5B1F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lirak.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lirak-haxhikadrija-93780b13a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lirak.haxhikadrijawork@gmail.com)
-![Open to remote roles](https://img.shields.io/badge/Open_to-remote_roles-2EA44F?style=flat-square)
 
 ---
 
@@ -61,9 +60,12 @@ e02d4aa  2022→2023  Software Engineer, SPS Commerce     micro frontends · des
 
 ### Activity
 
-Shipping almost every weekday, mostly in private product repos.
+Shipping almost every weekday, mostly in private product repos. See the contribution graph below ↓
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Lirak-f&bg_color=0B0B0C&color=B9B8B2&line=FF5B1F&point=F1F0EC&area=true&area_color=FF5B1F&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lirak-f/Lirak-f/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Lirak-f/Lirak-f/output/github-snake.svg" />
+</picture>
 
 ---
 
