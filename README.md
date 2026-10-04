@@ -1,5 +1,5 @@
 <a href="https://www.lirak.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dproduct-eng;%3E+years_shipping+........+7;%3E+now+.......+lead+%40+zero44;%3E+ai+..+agents+%2F+llm+%2F+voice;%3E+status+...+open+to+remote+roles" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dproduct-eng;%3E+years_shipping+........+7;%3E+now+.......+lead+%40+zero44;%3E+ai+..+agents+%2F+llm+%2F+voice" alt="Typing intro" />
 </a>
 
 ## Lirak Haxhikadrija
@@ -59,8 +59,6 @@ e02d4aa  2022→2023  Software Engineer, SPS Commerce     micro frontends · des
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Activity
-
-Shipping almost every weekday, mostly in private product repos. See the contribution graph below ↓
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lirak-f/Lirak-f/output/github-snake-dark.svg" />
