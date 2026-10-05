@@ -4,8 +4,8 @@
 
 ## Lirak Haxhikadrija
 
-**Product Engineer (AI) · Full-stack · Kosovo, remote**
-I build products end to end. Now with AI agents and LLMs inside them.
+**Product Engineer (AI) · Full-stack **
+Building products end to end. Now with AI agents and LLMs inside them.
 
 [![Website](https://img.shields.io/badge/lirak.dev-FF5B1F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lirak.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lirak-haxhikadrija-93780b13a/)
