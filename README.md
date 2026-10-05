@@ -19,17 +19,6 @@ I build products end to end. Now with AI agents and LLMs inside them.
 | :---------------------: | :------------------: | :-----------------: | :---------------: | :----------: |
 | contributions last year | AssemblyAI Hackathon | input query builder | records kept fast | users served |
 
-### Log
-
-```text
-a7f3e21  2023→now   Software Engineer, Zero44           AI agents · carbon compliance SaaS
-3c91b0d  2022→2023  Software Engineer, Cello Analytics  1,000+ input query builder · 10k+ records
-e02d4aa  2022→2023  Software Engineer, SPS Commerce     micro frontends · design system x6
-91bb6f2  2021→2022  Frontend Developer, Kutia           led frontend teams
-5d08c3e  2019→2020  Software Engineer, Phoneguard       React Native car-buying app
-```
-
-<sub>Most of this work lives in private company repos. The code stays private, the commits show below.</sub>
 
 ### AI Lab
 
