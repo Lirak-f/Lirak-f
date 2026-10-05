@@ -1,5 +1,5 @@
 <a href="https://www.lirak.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dproduct-eng;%3E+years_shipping+........+7;%3E+now+.......+frontend+lead+%40+zero44;%3E+ai+..+agents+%2F+llm+%2F+voice" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dproduct-eng;%3E+years_shipping+........+7;%3E+now+.......+software+engineer+%40+zero44;%3E+ai+..+agents+%2F+llm+%2F+voice" alt="Typing intro" />
 </a>
 
 ## Lirak Haxhikadrija
@@ -38,7 +38,6 @@ e02d4aa  2022→2023  Software Engineer, SPS Commerce     micro frontends · des
 | [**OperatorAI**](https://github.com/dtemir/OperatorAI)            | Voice AI that answers 911 callers and triages urgency         | 🏆 3rd overall, AssemblyAI |
 | [**Quorint**](https://www.quorint.tech/en)                        | Matches tenders, grants and buyers to Balkan companies, daily | Live                       |
 | **Rootmap**                                                       | Domain in, org chart out, via crawling and LLM extraction     | Building v1                |
-| [**lirak-portfolio**](https://github.com/Lirak-f/lirak-portfolio) | My portfolio, Next.js with CSS and SVG animation              | Live                       |
 
 ### Stack
 
