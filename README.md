@@ -22,7 +22,7 @@ I build products end to end. Now with AI agents and LLMs inside them.
 ### Log
 
 ```text
-a7f3e21  2023→now   Frontend Lead, Zero44              AI agents · carbon compliance SaaS
+a7f3e21  2023→now   Software Engineer, Zero44           AI agents · carbon compliance SaaS
 3c91b0d  2022→2023  Software Engineer, Cello Analytics  1,000+ input query builder · 10k+ records
 e02d4aa  2022→2023  Software Engineer, SPS Commerce     micro frontends · design system x6
 91bb6f2  2021→2022  Frontend Developer, Kutia           led frontend teams
