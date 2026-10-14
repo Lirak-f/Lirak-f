@@ -13,13 +13,6 @@ Building products end to end. Now with AI agents and LLMs inside them.
 
 ---
 
-### Signal
-
-|          1,482          |          #3          |       1,000+        |       10k+        |    100k+     |
-| :---------------------: | :------------------: | :-----------------: | :---------------: | :----------: |
-| contributions last year | AssemblyAI Hackathon | input query builder | records kept fast | users served |
-
-
 ### AI Lab
 
 | Project                                                           | What it does                                                  | Status                     |
