@@ -6,11 +6,9 @@
 
 Lirak Haxhikadrija. I'm a Full Stack Engineer building products end to end with a focus on TypeScript, AI agents and LLMs.
 
-🎓 Education: University of Pristina (BSC)
-🌐 Website: lirak.dev 
-📅 On GitHub Since: 2013
+- 🎓 Education: University of Pristina (BSC)
+- 🌐 Website: [lirak.dev](https://www.lirak.dev/)
 
-[![Website](https://img.shields.io/badge/lirak.dev-FF5B1F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lirak.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lirak-haxhikadrija-93780b13a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lirak.haxhikadrijawork@gmail.com)
 
