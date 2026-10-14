@@ -2,10 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dfull-stack-engineer;%3E+years_shipping+........+7;%3E+now+.......+software+engineer+%40+zero44;" alt="Typing intro" />
 </a>
 
-## Lirak Haxhikadrija
+## About
 
-**Full-stack Engineer**
-Building products end to end. Now with AI agents and LLMs inside them.
+Lirak Haxhikadrija. I'm a Full Stack Engineer building products end to end with a focus on TypeScript, AI agents and LLMs.
+
+🎓 Education: University of Pristina (BSC)
+🌐 Website: lirak.dev 
+📅 On GitHub Since: 2013
 
 [![Website](https://img.shields.io/badge/lirak.dev-FF5B1F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lirak.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lirak-haxhikadrija-93780b13a/)
