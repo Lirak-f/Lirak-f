@@ -1,10 +1,10 @@
 <a href="https://www.lirak.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dproduct-eng;%3E+years_shipping+........+7;%3E+now+.......+software+engineer+%40+zero44;" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dfull-stack-engineer;%3E+years_shipping+........+7;%3E+now+.......+software+engineer+%40+zero44;" alt="Typing intro" />
 </a>
 
 ## Lirak Haxhikadrija
 
-**Product Engineer (AI) · Full-stack **
+**Full-stack Engineer**
 Building products end to end. Now with AI agents and LLMs inside them.
 
 [![Website](https://img.shields.io/badge/lirak.dev-FF5B1F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lirak.dev/)
