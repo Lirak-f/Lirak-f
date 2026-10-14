@@ -25,7 +25,6 @@ Building products end to end. Now with AI agents and LLMs inside them.
 | Project                                                           | What it does                                                  | Status                     |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------- |
 | [**OperatorAI**](https://github.com/dtemir/OperatorAI)            | Voice AI that answers 911 callers and triages urgency         | 🏆 3rd overall, AssemblyAI |
-| [**Quorint**](https://www.quorint.tech/en)                        | Matches tenders, grants and buyers to Balkan companies, daily | Live                       |
 | **Rootmap**                                                       | Domain in, org chart out, via crawling and LLM extraction     | Building v1                |
 
 ### Stack
