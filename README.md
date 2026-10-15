@@ -1,7 +1,3 @@
-<a href="https://www.lirak.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=2800&pause=900&color=FF5B1F&vCenter=true&width=640&height=40&lines=%3E+init+lirak+--role%3Dfull-stack-engineer;%3E+years_shipping+........+7;%3E+now+.......+software+engineer+%40+zero44;" alt="Typing intro" />
-</a>
-
 ## About
 
 Lirak Haxhikadrija. I'm a Full Stack Engineer building products end to end with a focus on TypeScript, AI agents and LLMs.
